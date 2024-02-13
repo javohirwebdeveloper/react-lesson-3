@@ -1,0 +1,53 @@
+.Says {
+    margin-top: 190px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Says h2 {
+    color: rgb(21, 20, 20);
+font-size: 54px;
+font-weight: 770;
+line-height: 68px;
+margin-bottom: 47px;
+letter-spacing: 0%;
+text-align: center;
+}
+.user1 {
+    width: 514px;
+height: 347px;
+padding-top: 40px;
+padding-left: 25px;
+border: 2px solid rgb(255, 255, 255);
+border-radius: 8px;
+}
+.user1-top {
+    width: 460px;
+    display: flex;
+    align-items: center;
+}
+.users h5 {
+    color: rgb(51, 51, 51);
+font-size: 20px;
+font-weight: 770;
+line-height: 25px;
+letter-spacing: 0%;
+width: 176px;
+text-align: left;
+}
+.users ul {
+    margin-left: 37px;
+}
+.vector {
+    margin-left: 70px;
+}
+.user_say {
+    color: rgb(24, 29, 25);
+font-size: 18px;
+font-weight: 350;
+width: 420px;
+line-height: 30px;
+letter-spacing: 0%;
+margin-top: 32px;
+text-align: left;
+}
